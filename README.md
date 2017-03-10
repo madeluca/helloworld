@@ -10,3 +10,7 @@
 * Item 3
 	* Item 3a
 	* Item 3b
+**Adding some text as bold**
+_Adding some text as italics bold_
+add an image
+
